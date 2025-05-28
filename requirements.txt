@@ -1,0 +1,19 @@
+Flask
+flask-cors
+openpyxl
+pytesseract
+opencv-python
+numpy
+easyocr
+Pillow
+arabic-reshaper
+python-bidi
+python-docx
+pandas
+pdf2image
+Werkzeug
+paddleocr
+gunicorn
+python-dotenv
+paddlepaddle==2.5.2
+gradio==3.0.0  # Add Gradio if you're using it
